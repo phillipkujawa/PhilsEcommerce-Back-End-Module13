@@ -54,7 +54,7 @@ node server.js
 
 4. To seed the database run the seed file in seeds/index.js
 ```bash
-node index.js
+node index.js or npm run seed
 ```
 ... 
 
